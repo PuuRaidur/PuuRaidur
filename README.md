@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Puu
 
-<!--
-**PuuRaidur/PuuRaidur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---                                                                                                                                                                                                                                                                                                                                                                                         
+### 💻 Languages and Tools                                                                                                                                                                             
+<p align="center">                                                                                                                                                                                            
+  <a href="https://skillicons.dev">                                                                                                                                                                           
+    <img src="https://skillicons.dev/icons?i=debian,java,js,git,npm,spring,idea,webstorm,discord,github" />                                                                                                     
+  </a>                                                                                                                                                                                                       
+</p>                                                                                                                                                                                                                                                        
 
-Here are some ideas to get you started:
+### 📊 My GitHub Stats                                                                                                                                                                                                                                                                                                                                                                                                       
+<p align="center">                                                                                                                                                                                            
+  <a href="https://github.com/anuraghazra/github-readme-stats">                                                                                                                                               
+    <img alt="[YOUR_USERNAME]'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&rank_icon=github" />                                     
+  </a>                                                                                                                                                                                                        
+  &nbsp;&nbsp;&nbsp;&nbsp;                                                                                                                                                                                    
+  <a href="https://github.com/anuraghazra/github-readme-stats">                                                                                                                                               
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical" />                                                                 
+  </a>                                                                                                                                                                                                        
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
