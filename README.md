@@ -1,4 +1,4 @@
-## Hi there, I'm Puu
+## Hi there, I'm Georg
 
 ---  
 
