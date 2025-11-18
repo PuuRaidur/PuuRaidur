@@ -1,7 +1,5 @@
 ## Hi there, I'm Georg
 
----  
-
 ### Intro
 
 I'm a kood/Jõhvi coding school/academy student who is passionate about coding. I already started coding as a teenager and ever since it has been interesting to me.
