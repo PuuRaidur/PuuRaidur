@@ -15,8 +15,6 @@ I'm a supporter of open-source and Linux and always include the according Licens
 
 ### GitHub stats
 
-![GitHub Stats](https://streak-stats.demolab.com?user=PuuRaidur&theme=dark&hide_border=true)
-
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/PuuRaidur/stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PuuRaidur&theme=dark&show_icons=true&hide_border=true&layout=compact)
