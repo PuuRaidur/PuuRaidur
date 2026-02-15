@@ -2,8 +2,8 @@
 
 ### Intro
 
-I'm a kood/Jõhvi coding school/academy student who is passionate about coding. I already started coding as a teenager and ever since it has been interesting to me.
-I'm currently still learning JavaScript, soon TypeScript, and aspire to become good at those languages.
+I'm a kood/Jõhvi coding school student who is passionate about coding and currently am in web development. I already started coding as a teenager and ever since it has been interesting to me.
+I'm currently learning TypeScript and aspire to become good at this language.
 I'm a supporter of open-source and Linux and always include the according License in my projects.
 
 ### Languages and Tools                                                                                                                                                                           
