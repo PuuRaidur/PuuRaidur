@@ -9,7 +9,7 @@ I'm a supporter of open-source and Linux and always include the according Licens
 ### Languages and Tools                                                                                                                                                                           
 <p align="left">                                                                                                                                                                                            
   <a href="https://skillicons.dev">                                                                                                                                                                           
-    <img src="https://skillicons.dev/icons?i=debian,java,js,git,gradle,npm,spring,postman,idea,webstorm,discord,github" />                                                                                                     
+    <img src="https://skillicons.dev/icons?i=linux,java,nodejs,js,ts,git,gradle,npm,spring,postman,idea,webstorm,discord,github" />                                                                                                     
   </a>                                                                                                                                                                                                       
 </p>                                                                                                                                                                                                                                                        
 
