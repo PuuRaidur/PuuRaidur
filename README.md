@@ -5,6 +5,7 @@
 I'm a //kood student who is enthusiastic about coding. I started coding as a teenager(though there was a big time gap) and ever since it has piqued my interest.
 I'm currently learning web development.
 I'm a supporter of open-source, Linux and always include the according license in my projects.
+
 For those interested about the school: [//kood](https://kood.tech/)
 
 ### Languages and Tools                                                                                                                                                                           
