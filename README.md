@@ -1,4 +1,4 @@
-# Hi there, I'm Georg
+# Hey there
 
 ### Intro
 
