@@ -3,7 +3,7 @@ An enthusiastic [//kood](https://kood.tech/) coding student.<br>Currently in web
 
 
 ## Socials:
-Discord: @puuraidur0
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/618444318511726592)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/georg-kaasik-247716369) 
 
