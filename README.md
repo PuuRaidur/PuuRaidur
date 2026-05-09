@@ -11,7 +11,7 @@ For those interested about the school: [//kood](https://kood.tech/)
 ### Languages and Tools                                                                                                                                                                           
 <p align="left">                                                                                                                                                                                            
   <a href="https://skillicons.dev">                                                                                                                                                                           
-    <img src="https://skillicons.dev/icons?i=linux,java,nodejs,js,ts,git,gradle,npm,spring,postman,idea,webstorm,discord,github" />                                                                                                     
+    <img src="https://skillicons.dev/icons?i=linux,git,java,js,ts,npm,spring,postman,idea,discord" />                                                                                                     
   </a>                                                                                                                                                                                                       
 </p>                                                                                                                                                                                                                                                        
 
