@@ -1,13 +1,9 @@
-# Hey there
-
 ### Intro
 
-I'm a //kood student who is enthusiastic about coding.
-I'm currently learning web development.
+An enthusiastic [//kood](https://kood.tech/) coding student.
+Currently in web development.
 Linux is my jam.
-I'm a supporter of open-source and always include the according license in my projects.
-
-For those interested about the school: [//kood](https://kood.tech/)
+A supporter of open-source.
 
 ### Languages and Tools                                                                                                                                                                           
 <p align="left">                                                                                                                                                                                            
