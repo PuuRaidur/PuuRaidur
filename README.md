@@ -1,5 +1,5 @@
 # Intro:
-remote [//kood](https://kood.tech/) software development student.<br>Currently in web development.<br>Linux is my jam.<br>A supporter of open-source.
+Remote [//kood](https://kood.tech/) software development student.<br>Currently in web development.<br>Linux is my jam.<br>A supporter of open-source.
 
 
 ## Socials:
