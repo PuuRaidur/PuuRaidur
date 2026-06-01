@@ -1,5 +1,5 @@
 # Intro:
-An enthusiastic [//kood](https://kood.tech/) coding student.<br>Currently in web development.<br>Linux is my jam.<br>A supporter of open-source.
+[koodtech](https://kood.tech/) software development student.<br>Currently in web development.<br>Linux is my jam.<br>A supporter of open-source.
 
 
 ## Socials:
